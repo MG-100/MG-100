@@ -15,4 +15,4 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/MG-100)
 <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MG-100&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MG-100&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuhHosting&theme=tokyonight)
