@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MG-100/MG-100/main/wave.gif" width="30px">
 
 ## My last played Song on Spotify
 [![Spotify](https://readme-spotify-mg100.vercel.app/api/spotify)](https://open.spotify.com/user/jzw5r7ry29e1p9j0w2pzccyqx)
