@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My last played Song on Spotify
-[![Spotify](https://readme-spotify-mg100.vercel.app/api/spotify)](https://open.spotify.com/user/MG_100)
+[![Spotify](https://readme-spotify-mg100.vercel.app/api/spotify)](https://open.spotify.com/user/jzw5r7ry29e1p9j0w2pzccyqx)
 
 ## 🧰 Languages and Tools:
 <p align="center">
