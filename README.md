@@ -2,7 +2,10 @@
 
 ## My last played Song on Spotify
 <p align="center">
-  [![Spotify](https://spotify-readmeapi.vercel.app/api/now-playing)](https://spotify-readmeapi.vercel.app/api/now-playing?open)
+  <a href="https://spotify-readmeapi.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://spotify-readmeapi.vercel.app/api/now-playing">
+  </a>
 </p>
 
 ## 🧰 Languages and Tools:
