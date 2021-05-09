@@ -1,7 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MG-100/MG-100/main/wave.gif" width="30px">
 
 ## My last played Song on Spotify
-[![Spotify](https://spotify-readmeapi.vercel.app/api/now-playing)](https://spotify-readmeapi.vercel.app/api/now-playing?open)
+<p align="center">
+  [![Spotify](https://spotify-readmeapi.vercel.app/api/now-playing)](https://spotify-readmeapi.vercel.app/api/now-playing?open)
+</p>
 
 ## 🧰 Languages and Tools:
 
